@@ -11,3 +11,13 @@ Gorgeous, diamond-shaped icons that make every app stand out.
 With support for many tweaks (and more coming) and more than 300 apps, Dymond is the best minimal icon replacement you can get.
 
 ![Preview of Dymond](http://www.winfisdesign.com/dymond/images/dymond-iphone-mockup.png)
+
+##Permitted Use
+
+- Add icons
+- Modify the PSDs
+- Use any asset for your personal or commercial product
+
+I do not ask for anything in return, but if you want to purchase the theme in Cydia, I'd appreciate it.
+
+Also, follow me on twitter ([@XusBadia](http://www.twitter.com/XusBadia)) for updates and future products.
