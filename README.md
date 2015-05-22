@@ -10,8 +10,7 @@ Gorgeous, diamond-shaped icons that make every app stand out.
 
 With support for many tweaks (and more coming) and more than 300 apps, Dymond is the best minimal icon replacement you can get.
 
-![Preview of Dymond](http://www.winfisdesign.com/dymond/images/dymond-iphone-mockup.png =400x)
-
+<img src="http://www.winfisdesign.com/dymond/images/dymond-iphone-mockup.png" alt="Preview of Dymond" width="400px">
 ##Permitted Use
 
 - Add icons
