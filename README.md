@@ -11,11 +11,11 @@ Gorgeous, diamond-shaped icons that make every app stand out.
 With support for many tweaks (and more coming) and more than 300 apps, Dymond is the best minimal icon replacement you can get.
 
 Dymond features:
-	* **More than 400 custom icons!**
-  * Auto app-mask for every App Store app (it also supports IconOmatic).
-	* 5 completely new wallpapers, for both iPhone and iPad.
-  * PSD to make your own Dymond Style Icons.
-	* ColorKeyboard and FolderIcons Support
+* **More than 400 custom icons!**
+* Auto app-mask for every App Store app (it also supports IconOmatic).
+* 5 completely new wallpapers, for both iPhone and iPad.
+* PSD to make your own Dymond Style Icons.
+* ColorKeyboard and FolderIcons Support
 
 <img src="http://www.winfisdesign.com/dymond/images/dymond-iphone-mockup.png" alt="Preview of Dymond" width="400px">
 ##Permitted Use
