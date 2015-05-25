@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CalendarIconDateStyle</key>
+		<string>
+			font-size: 35px; opacity: 0.35;
+			margin-left:0px;margin-top:-4.5px;
+			color: black;
+			text-shadow: #cecece 0px -1px 2px;
+		</string>
+	<key>CalendarIconDayStyle</key>
+		<string>
+			color: #c32424;
+			opacity: 1;
+			text-shadow: #cecece 0px -1px 2px;
+			font-size: 9px;
+			margin-left:0px;
+			margin-top:18.5px;
+		</string>
+		
+	<key>CalendarIconDateSettings</key>
+        <dict>
+                <key>FontSize</key>
+                <integer>35</integer>
+                <key>TextXoffset</key>
+                <integer>0</integer>
+                <key>TextYoffset</key>
+                <real>-4.5</real>
+                <key>TextColor</key>
+                <string>rgba(0,0,0,0.35)</string>
+                <key>ShadowColor</key>
+                <string>#cecece</string>
+                <key>ShadowYoffset</key>
+                <integer>-1</integer>
+                <key>ShadowBlurRadius</key>
+                <integer>2</integer>
+        </dict>
+    <key>CalendarIconDaySettings</key>
+        <dict>
+                <key>FontSize</key>
+                <integer>9</integer>
+                <key>TextXoffset</key>
+                <integer>0</integer>
+                <key>TextYoffset</key>
+                <real>18.5</real>
+                <key>TextColor</key>
+                <string>#c32424</string>
+                <key>ShadowColor</key>
+                <string>#cecece</string>
+                <key>ShadowYoffset</key>
+                <integer>-1</integer>
+                <key>ShadowBlurRadius</key>
+                <integer>2</integer>
+        </dict>
+</dict>
+</plist>
